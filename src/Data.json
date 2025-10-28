@@ -1,0 +1,151 @@
+[
+    {
+        "id":"1",
+        "name":"Home in Merrick way",
+        "img":"Images/properties-1.jpeg",
+        "apImage": "Images/ap-1.jpeg",
+        "address": "Merrick way, Miami, FL 33134, USA",
+        "type": "Single Family",
+        "price":"$540,000",
+        "date":"June 15 2022",
+        "images": 5,
+        "videos": 1,
+        "tags":{
+            "forsale":"For Sale",
+            "featured":"featured",
+            "hot":"Hot"
+        },
+        "imageSlides": [
+            "Images/properties-1-1.jpeg",
+            "Images/properties-1-2.jpeg",
+            "Images/properties-1-3.jpeg",
+            "Images/properties-1-4.jpeg",
+            "Images/properties-1-5.jpeg"
+            
+        ],
+        "videoSlide":"Images/real-estate-video.mp4"
+    },
+    {
+        "id":"2",
+        "name":"Villa in Coral Gable",
+        "img":"Images/properties-2.webp",
+        "apImage": "Images/ap-2.jpeg",
+        "address": "Deering Bay Drive, Coral Gables, FL 33158 USA",
+        "type": "Villa",
+        "price":"$825,000",
+        "date":"June 14 2022",
+        "images": 8,
+        "videos": 1,
+        "tags":{
+            "forsale":"For Sale",
+            "featured":"featured",
+            "hot":"Hot"
+        },
+        "imageSlides": [
+            "Images/properties-2-1.jpeg",
+            "Images/properties-2-2.jpeg",
+            "Images/properties-2-3.jpeg",
+            "Images/properties-2-4.jpeg",
+            "Images/properties-2-5.jpeg",
+            "Images/properties-2-6.jpeg",
+            "Images/properties-2-7.jpeg",
+            "Images/properties-2-8.jpeg"
+            
+        ],
+        "videoSlide":"Images/real-estate-video.mp4"
+    },
+    {
+        "id":"3",
+        "name":"Villa in Hollywood Boulevard",
+        "img":"Images/properties-3.jpeg",
+        "apImage": "Images/ap-3.jpeg",
+        "address": "Hatters Lane, Hollywood FL 33158 USA",
+        "type": "Villa",
+        "price":"$740,000",
+        "date":"June 13 2022",
+        "images": 3,
+        "videos": 1,
+        "tags":{
+            "forsale":"For Sale",
+            "featured":"Featured",
+            "Trndy":"Trendy"
+        },
+        "imageSlides": [
+            "Images/properties-3-1.jpeg",
+            "Images/properties-3-2.jpeg",
+            "Images/properties-2-1.jpeg"    
+            
+        ],
+        "videoSlide":"Images/real-estate-video.mp4"
+    },
+    {
+        "id":"4",
+        "name":"Traditional Food Restaurant",
+        "img":"Images/properties-4.jpeg",
+        "apImage": "Images/ap-4.jpeg",
+        "address": "Sunset Drive, Miami, FL USA",
+        "type": "shop",
+        "price":"$2,600 / Month",
+        "date":"June 12 2022",
+        "images": 1,
+        "videos": 1,
+        "tags":{
+            "forRent":"For Rent",
+            "featured":"Featured",
+            "Trndy":"Trendy"
+        },
+        "imageSlides": [
+            "Images/properties-3-1.jpeg",
+            "Images/properties-3-2.jpeg",
+            "Images/properties-2-1.jpeg"    
+            
+        ],
+        "videoSlide":"Images/real-estate-video.mp4"
+    },
+    {
+        "id":"5",
+        "name":"Villa on Grand Avenue",
+        "img":"Images/properties-5.webp",
+        "address": "CocoWalk, 3015 Grand Avenue, Miami FL USA",
+        "type": "Villa",
+        "price":"$4,750 / Month",
+        "date":"June 11 2022",
+        "images": 3,
+        "videos": 1,
+        "tags":{
+            "forRent":"For Rent",
+            "featured":"Featured"
+            
+        },
+        "imageSlides": [
+            "Images/properties-5-1.jpeg",
+            "Images/properties-5-2.jpeg",
+            "Images/properties-5-3.jpeg"    
+            
+        ],
+        "videoSlide":"Images/real-estate-video.mp4"
+    },
+    {
+        "id":"6",
+        "name":"Office Space at Northwest 107th",
+        "img":"Images/properties-6.jpeg",
+        "address": "Northwest 107th Avenue, Doral, FL 33178, USA",
+        "type": "Office",
+        "price":"$3,100 / Month",
+        "date":"June 10 2022",
+        "images": 2,
+        "videos": 1,
+        "tags":{
+            "forRent":"For Rent"
+            
+            
+        },
+        "imageSlides": [
+            "Images/properties-6-1.jpeg",
+            "Images/properties-6-2.jpeg"
+               
+            
+        ],
+        "videoSlide":"Images/real-estate-video.mp4"
+    }
+]
