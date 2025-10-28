@@ -55,12 +55,12 @@ const Nav = () => {
                 </li>
 
                 <li className="nav-item fs-6 p-0">
-                  <Link to='/' className="nav-link text-black">
+                  <Link to='/gallery' className="nav-link text-black">
                     Gallery
                   </Link>
                 </li>
                 <li className="nav-item fs-6 p-0">
-                  <Link to='/' className="nav-link text-black">
+                  <Link to='/contact' className="nav-link text-black">
                     Contact
                   </Link>
                 </li>
@@ -225,12 +225,12 @@ const Nav = () => {
                 </li>
 
                 <li className="nav-item fs-6 p-0">
-                  <Link to='/' className="nav-link text-black">
+                  <Link to='/gallery' className="nav-link text-black">
                     Gallery
                   </Link>
                 </li>
                 <li className="nav-item fs-6 p-0">
-                  <Link to='/' className="nav-link text-black">
+                  <Link to='/contact' className="nav-link text-black">
                     Contact
                   </Link>
                 </li>
